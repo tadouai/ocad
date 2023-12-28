@@ -12,7 +12,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#F24E1E' }],
+    ['meta', { name: 'theme-color', content: '#f7941d' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
@@ -28,7 +28,7 @@ module.exports = {
 
     "/fr/": {
       lang: "fr-FR",
-      title: "Figma pour tous",
+      title: "OCAD",
       description: "Support de formation Figma"
     }
     },
