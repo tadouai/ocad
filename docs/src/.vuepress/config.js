@@ -198,5 +198,5 @@ module.exports = {
   /**
    * Deployment，ref：https://v1.vuepress.vuejs.org/guide/deploy.html#gitlab-pages-and-gitlab-ci
    */
-  base: '/figma-training/'
+  base: '/ocad/'
 }

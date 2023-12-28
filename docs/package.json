@@ -1,23 +1,15 @@
 {
-  "name": "figma-training",
+  "name": "ocad",
   "version": "0.0.1",
-  "description": "Figma training",
+  "description": "ocad",
   "main": "index.js",
   "authors": [
     {
-      "name": "Simon MERCIER",
-      "email": "simon.mercier@worldline.com"
-    },
-    {
-      "name": "Antoine CANDY",
-      "email": "antoine.candy@worldline.com"
-    },
-    {
-      "name": "Henri OUZIEL",
-      "email": "henri.ouziel@worldline.com"
+      "name": "Agnès MERCIER",
+      "email": "mercier.agnes@gmail.com"
     }
   ],
-  "repository": "https://github.com/Simondroid/figma-training",
+  "repository": "https://github.com/tadouai/ocad",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
